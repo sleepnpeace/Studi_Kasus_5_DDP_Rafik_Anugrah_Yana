@@ -23,7 +23,7 @@ Kode ini berfungsi menghitung berapa lama parkir dengan cara mengurangi jam kelu
 
 ![alt text](https://github.com/sleepnpeace/Studi_Kasus_5_DDP_Rafik_Anugrah_Yana/blob/main/images/6.png)
 
-Kode ini berfungsi untuk menampilkan headline hasil parkir, jenis kendaraan, jam parkir, jam masuk, dan lama parkir dari hasil pengurangan jam keluar dengan jam masuk, dan total biaya dari hasil perhitungan 
+Kode ini berfungsi untuk menampilkan headline hasil parkir, jenis kendaraan, jam parkir, jam masuk, dan lama parkir dari hasil pengurangan jam keluar dengan jam masuk, dan total biaya dari hasil perhitungan variabel total tadi
 
 
 
